@@ -1,2 +1,0 @@
-# GiGRealty
-GiG Realty Services
